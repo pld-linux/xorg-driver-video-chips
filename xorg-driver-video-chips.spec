@@ -1,5 +1,5 @@
 Summary:	X.org video driver for Chips and Technologies video processors
-Summary(pl):	Sterownik obrazu X.org do uk≥adÛw graficznych Chips and Technologies
+Summary(pl.UTF-8):   Sterownik obrazu X.org do uk≈Çad√≥w graficznych Chips and Technologies
 Name:		xorg-driver-video-chips
 Version:	1.1.1
 Release:	0.1
@@ -30,10 +30,10 @@ classes: basic (ct65520, ct65525, ct65530, ct65535, ct65540, ct65545,
 ct65546, ct65548), WinGine (ct64200, ct64300) and HiQV (ct65550,
 ct65554, ct65555, ct68554, ct69000, ct96030).
 
-%description -l pl
-Sterownik obrazu X.org do uk≥adÛw graficznych Chips and Technologies.
-Obsluguje uk≥ady graficzne na wiÍkszo∂ci z dostÍpnych teraz szyn.
-Obs≥ugiwane s± uk≥ady z trzech klas architektur: basic (ct65520,
+%description -l pl.UTF-8
+Sterownik obrazu X.org do uk≈Çad√≥w graficznych Chips and Technologies.
+Obsluguje uk≈Çady graficzne na wiƒôkszo≈õci z dostƒôpnych teraz szyn.
+Obs≈Çugiwane sƒÖ uk≈Çady z trzech klas architektur: basic (ct65520,
 ct65525, ct65530, ct65535, ct65540, ct65545, ct65546, ct65548),
 WinGine (ct64200, ct64300) oraz HiQV (ct65550, ct65554, ct65555,
 ct68554, ct69000, ct96030).
