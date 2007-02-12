@@ -1,5 +1,5 @@
 Summary:	X.org video driver for Chips and Technologies video processors
-Summary(pl.UTF-8):   Sterownik obrazu X.org do układów graficznych Chips and Technologies
+Summary(pl.UTF-8):	Sterownik obrazu X.org do układów graficznych Chips and Technologies
 Name:		xorg-driver-video-chips
 Version:	1.1.1
 Release:	0.1
