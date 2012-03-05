@@ -2,7 +2,7 @@ Summary:	X.org video driver for Chips and Technologies video processors
 Summary(pl.UTF-8):	Sterownik obrazu X.org do układów graficznych Chips and Technologies
 Name:		xorg-driver-video-chips
 Version:	1.2.4
-Release:	3
+Release:	4
 License:	MIT
 Group:		X11/Applications
 Source0:	http://xorg.freedesktop.org/releases/individual/driver/xf86-video-chips-%{version}.tar.bz2
